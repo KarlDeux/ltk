@@ -1,4 +1,4 @@
-#Minimal exercise
+<h1>Minimal exercise</h1>
 
 This project uses require.js and jquery to fully function.
 There's also some external libraries for code quality checks inside of tools folder.
@@ -17,7 +17,7 @@ In this case it will only accept files that contains `txt` at any point.
 
 Feel free to change the class initiator so you can set up you own mask or totally remove those.
 
-###Application issues - aknowledged
+<h3>Application issues - aknowledged</h3>
 Due to the nature of the ajax call asynchronous mode is disabled.<br>
 Implementing a locking system to avoid object parse with no final elements inside was a must
 in order to preserve data consistency.
