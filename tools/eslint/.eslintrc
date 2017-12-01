@@ -1,0 +1,6 @@
+{
+    "extends": [
+    	"./.eslintrc-reset",
+    	"./.eslintrc-scoped"
+    ]
+}
